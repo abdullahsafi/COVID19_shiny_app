@@ -19,8 +19,8 @@ library(stringr)
 library(tools)
 
 shiny::runGitHub(
-  repo = "Covid_C1_shinyapp", 
-  username = "YYAO3610", 
+  repo = "DATA3888_COVID_shiny", 
+  username = "abdullahsafi", 
   ref = "main")
 ```
 
