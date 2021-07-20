@@ -1,5 +1,5 @@
 # Covid_C1_shinyapp
-This app explores multi-omics dataset for severe/moderate covid-19 cases and allows the users to upload their own dataset for prediction.
+This app explores multi-omics datasets for severe/moderate covid-19 cases and allows the users to upload their own dataset for prediction.
 Run the app locally in Rstudio on laptop by
 
 ``` r
